@@ -3,3 +3,4 @@ hello git! 22222
 hello git! 33333
 hello hot-fix
 master test
+hot-fix
